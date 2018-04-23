@@ -12,6 +12,6 @@
         <title>Laravel</title>
     </head>
     <body>
-
+    Текст
     </body>
 </html>
